@@ -1,0 +1,18 @@
+[
+	{
+		 "form_elements":[
+		 	{"type":"button", "color":"red"},
+		 	{"type":"textBox", "size":45},
+		 	{"type":"label","content":"username","color":"red"}
+		 ] ,
+		 "form_alignment":"horizontal"
+        },
+	{
+		"form_elements":[
+			{"type":"button","color":"yellow"},
+			{"type":"textBox","size":30},
+			{"type":"label","content":"password","color":"red"}
+		],
+		"form_alignment":"vertical"
+	}
+]
